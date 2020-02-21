@@ -1,5 +1,5 @@
 {
-    "javascript/dc/ArrayConstructor": {
+    "ArrayConstructor": {
         "categories": {
             "API": 1,
             "Info": 1
@@ -1036,7 +1036,7 @@
             "error"
         ]
     },
-    "javascript/dc/AttrAccessOnNull": {
+    "AttrAccessOnNull": {
         "categories": {
             "Defect": 1
         },
@@ -1354,7 +1354,7 @@
             "support"
         ]
     },
-    "javascript/dc/DateMonthIndex": {
+    "DateMonthIndex": {
         "categories": {
             "Defect": 1
         },
@@ -1592,7 +1592,7 @@
         "search_queries": [],
         "tags": []
     },
-    "javascript/dc/JavascriptDeadCode": {
+    "JavascriptDeadCode": {
         "categories": {
             "Check": 1
         },
@@ -1649,7 +1649,7 @@
         "search_queries": [],
         "tags": []
     },
-    "javascript/dc/JavascriptIdenticalBranches": {
+    "JavascriptIdenticalBranches": {
         "categories": {
             "Check": 1
         },
@@ -1710,7 +1710,7 @@
         "search_queries": [],
         "tags": []
     },
-    "javascript/dc/NoZeroReturnedInSort": {
+    "NoZeroReturnedInSort": {
         "categories": {
             "API": 1
         },
@@ -2193,7 +2193,7 @@
             "sort"
         ]
     },
-    "javascript/dc/PromiseNotCaughtGeneral": {
+    "PromiseNotCaughtGeneral": {
         "categories": {
             "API": 1,
             "Info": 1
@@ -3886,7 +3886,7 @@
             "tests"
         ]
     },
-    "javascript/dc/UseArrowFunction": {
+    "UseArrowFunction": {
         "categories": {
             "API": 1,
             "Info": 1
@@ -4833,7 +4833,7 @@
             "tests"
         ]
     },
-    "javascript/dc/UseNumberIsNan": {
+    "UseNumberIsNan": {
         "categories": {
             "Defect": 1
         },
@@ -5302,7 +5302,7 @@
             "Number.isNaN"
         ]
     },
-    "javascript/dc/UseStrictEquality": {
+    "UseStrictEquality": {
         "categories": {
             "API": 1,
             "Info": 1
@@ -6599,7 +6599,7 @@
             "support"
         ]
     },
-    "javascript/eslint/require-jsdoc": {
+    "require-jsdoc": {
         "categories": {
             "Lint": 1
         },
